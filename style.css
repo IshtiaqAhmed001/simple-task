@@ -1,0 +1,35 @@
+.card-container {
+    padding: 10px 0;
+    width: 800px;
+    height: 600;
+    background-color: #212529;
+}
+.profile-img{
+    border-radius: 50%;
+    width: 150px;
+   margin-top: 50px;
+   margin-left: 325px;
+   margin-right: 325px;
+}
+.profile-name{
+    margin-top: 10px;
+    margin-bottom: 5;
+    text-align: center;
+    font-size: 2rem;
+    color: #198754d4;
+    border: 1px solid rgba(255, 255, 255, 0.59);
+}
+.title{
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-align: center;
+    color: #198754;
+    font-size: 1.2rem;
+}
+.contact{
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #198754d4;
+    font-size: 1.2rem;
+}
